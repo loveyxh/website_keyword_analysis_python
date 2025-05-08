@@ -48,7 +48,7 @@
    ```
    python website_analysis.py
    ```
-4. 脚本将读取默认的Excel文件（邵阳_ICP备案_20250324.xlsx），并生成一个新的带有分析结果的Excel文件
+4. 脚本将读取默认的Excel文件（网站列表_样例数据.xlsx），并生成一个新的带有分析结果的Excel文件
 
 ### 自定义输入文件
 
